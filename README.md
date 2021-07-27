@@ -1,1 +1,1 @@
-# Bigquery_ml
+study bigquery python module
